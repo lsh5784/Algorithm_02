@@ -1,5 +1,5 @@
-# Algorithm_02
-- - -
+# Algorithm_02   
+
 ## MODEL #1 : 3 Layers with 1 Convolution Layer
 ### 1. Model   
 ![Model](https://user-images.githubusercontent.com/85793926/121783043-a3beb380-cbe7-11eb-8ef5-86d631e9547a.PNG)   
