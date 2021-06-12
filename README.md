@@ -1,14 +1,14 @@
 # Algorithm_02
 ## MODEL #1 : 3 Layers with 1 Convolution Layer
-1. Model   
+###1. Model   
 ![Model](https://user-images.githubusercontent.com/85793926/121783043-a3beb380-cbe7-11eb-8ef5-86d631e9547a.PNG)   
-2. Training with Training loss   
+###2. Training with Training loss   
 ![Training with Training loss](https://user-images.githubusercontent.com/85793926/121783048-a8836780-cbe7-11eb-970c-c6a9384dab59.PNG)   
-3. Test Accuracy   
+###3. Test Accuracy   
 ![Test Accuracy](https://user-images.githubusercontent.com/85793926/121783051-ac16ee80-cbe7-11eb-9bf5-714ff2f6a264.PNG)   
-4. Images and corresponding probability that predicted Right   
+###4. Images and corresponding probability that predicted Right   
 ![Images and Probability that predicted right](https://user-images.githubusercontent.com/85793926/121783057-afaa7580-cbe7-11eb-9af6-8757d19fa011.PNG)   
-5. Images and correspoding probability that predicted Wrong   
+###5. Images and correspoding probability that predicted Wrong   
 ![predicted wrong](https://user-images.githubusercontent.com/85793926/121783074-b46f2980-cbe7-11eb-8769-d74031a9d610.PNG)   
 
 MODEL #2 : 5 Layers with 2 Convolution Layers   
